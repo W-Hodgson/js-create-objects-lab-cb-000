@@ -1,5 +1,7 @@
 'use strict';
 
 const Dog(name, breed, age) {
-  this.name =
+  this.name = name;
+  this.breed = breed; 
+  this.age = age
 }
