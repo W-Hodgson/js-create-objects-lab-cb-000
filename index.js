@@ -8,6 +8,6 @@ function Dog(name, breed, age) {
 
 function Cat(name, breed, age) {
   this.name = name;
-  this.breed = age;
-  this.age = age
+  this.breed = breed;
+  this.age = age;
 }
